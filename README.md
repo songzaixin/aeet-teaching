@@ -1,13 +1,12 @@
-## Zaixin Song's Profile Page
+# Homepage  |  Dr. Zaixin Song
 
 <div align=center><img src="https://github.com/songzaixin/cv/raw/zxs-patch-cv/image/icon1.jpg" alt="image-icon1" style="zoom:25%;" /></div>
 
 <center><font size=12> Zaixin SONG </font></center>
 
-
 # More About Me, Please See
 
-| [Home](https://songzaixin.github.io/cv/)  | [Education](https://songzaixin.github.io/cv-education/) | [Experience](https://songzaixin.github.io/cv-experience/) | [Project](https://songzaixin.github.io/cv-project/) | [Outcome](https://songzaixin.github.io/cv-outcome/) | [Team](https://songzaixin.github.io/cv-team/) |
+| [Home](https://songzaixin.github.io/cv/)  | [Education](https://songzaixin.github.io/cv-education/) | [Experience](https://songzaixin.github.io/cv-experience/) | [Project](https://songzaixin.github.io/cv-project/) | [Outcome](https://songzaixin.github.io/cv-outcome/) | [Activity](https://songzaixin.github.io/cv-activity/) | [Team](https://songzaixin.github.io/cv-team/) |
 
 ---
 
