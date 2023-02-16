@@ -1,61 +1,44 @@
-# Homepage  |  Dr. Zaixin Song
-
-<div align=center><img src="https://github.com/songzaixin/cv/raw/zxs-patch-cv/image/icon1.jpg" alt="image-icon1" style="zoom:25%;" /></div>
-
-<center><font size=12> Zaixin SONG </font></center>
-
-# More About Me, Please See
-
-| [Home](https://songzaixin.github.io/cv/)  | [Education](https://songzaixin.github.io/cv-education/) | [Experience](https://songzaixin.github.io/cv-experience/) | [Project](https://songzaixin.github.io/cv-project/) | [Outcome](https://songzaixin.github.io/cv-outcome/) | [Activity](https://songzaixin.github.io/cv-activity/) | [Team](https://songzaixin.github.io/cv-team/) |
+# Applied Energy & Electromagnetic Technology (AEET) Lab
 
 ---
 
----
-
-
-# My Working Experience
+| [Home](https://songzaixin.github.io/aeet-home/)  | [Research](https://songzaixin.github.io/aeet-research/) | [Outcome](https://songzaixin.github.io/aeet-outcome/) | [Teaching](https://songzaixin.github.io/aeet-teaching/) | [People](https://songzaixin.github.io/aeet-people/) | [Activity](https://songzaixin.github.io/aeet-activity/) | [Join Us](https://songzaixin.github.io/aeet-joinus/) |
 
 ---
 
-## City University of Hong Kong (CityU), Hong Kong
+# Teaching Subjects
 
-### Postdoctoral Research Fellow -- Sep-2021 ~ Jul-2022
+**<u>Subject Code:</u>** ISE1D01 of Dept. of ISE, PolyU
 
-In Electrical Energy & Power Technology (EEPT) Lab, School of Energy and Environment; Supervisor: Dr. Chunhua Liu
+**<u>Subject Title:</u>** Learning for a Sustainable Future
+
+**<u>Level:</u>** Year 1 and Year 2
+
+**<u>Objectives:</u>** The objectives of the subject are to enable students to:
+
+- Understand the concepts of sustainability and sustainable development; the interdependence of natural and socio-economic systems at local, national and global levels
+- Develop an understanding of the social, economic, environmental and technological issues facing the world today and establish an understanding of the interrelationships among these issues
+- Have a critical reflection and decision making caused by personal lifestyles
+- Engage in active participation of building sustainable development
+
 
 ---
 
-## City University of Hong Kong (CityU), Hong Kong
-
-### Teaching Assistant -- Sep-2018 ~ 08-2021
-
-In School of Energy and Environment
-
----
-
-## Shenzhen Tiemeizhong Technology Co., Ltd, Shenzhen, China
-
-### Motor R&D Engineer -- Jul-2020 ~ Jul-2022
-
-In Department of R&D; Responsibility: The design, analysis, algorithm implementation, measurement, control platform construction, and testing of novel, high-performance, series electric motors and control systems involved in the company's projects
-
----
-
-
-# Related Organizations
+Related Organizations
 
 <div align=left>
-<img src="https://github.com/songzaixin/cv/raw/zxs-patch-cv/image/logo-cityu.png" alt="image-cityu" style="zoom:10%;" />
-<img src="https://github.com/songzaixin/cv/raw/zxs-patch-cv/image/logo-hit.png" alt="image-hit" style="zoom:40%;" />
-<img src="https://github.com/songzaixin/cv/raw/zxs-patch-cv/image/logo-hku.png" alt="image-hku" style="zoom:5%;" />
-<img src="https://github.com/songzaixin/cv/raw/zxs-patch-cv/image/logo-nsfc.png" alt="image-nsfc" style="zoom:30%;" />
-<img src="https://github.com/songzaixin/cv/raw/zxs-patch-cv/image/logo-ugc.png" alt="image-ugc" style="zoom:7.5%;" />
+<img src="https://github.com/songzaixin/aeet-home/raw/zxs-patch-cv/image/logo-polyu.png" alt="image-cityu" style="zoom:15%;" />
+<img src="https://github.com/songzaixin/aeet-home/raw/zxs-patch-cv/image/logo-cityu.png" alt="image-cityu" style="zoom:10%;" />
+<img src="https://github.com/songzaixin/aeet-home/raw/zxs-patch-cv/image/logo-hit.png" alt="image-hit" style="zoom:40%;" />
+<img src="https://github.com/songzaixin/aeet-home/raw/zxs-patch-cv/image/logo-hku.png" alt="image-hku" style="zoom:5%;" />
+<img src="https://github.com/songzaixin/aeet-home/raw/zxs-patch-cv/image/logo-nsfc.png" alt="image-nsfc" style="zoom:30%;" />
+<img src="https://github.com/songzaixin/aeet-home/raw/zxs-patch-cv/image/logo-ugc.png" alt="image-ugc" style="zoom:7.5%;" />
 </div>
+
+
 
 ---
 
-Created by *Zaixin Song*
+© 2022 by Zaixin Song. All rights reserved. 
+Last Update: Feb-2023
 
-Contact Me: 
-* Email: zaixin.song@cityu.edu.hk
-* WeChat: song_zaixin
